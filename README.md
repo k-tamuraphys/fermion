@@ -1,2 +1,2 @@
 # fermion
-For generate Hamiltonian with fermion operator
+For generation Hamiltonian with fermion operator
