@@ -1,5 +1,5 @@
 # fermion
-For generation Hamiltonian with fermion operator
+For generations Hamiltonian with fermion operators
 
 vm_dot(v,m)
   ベクトルvと行列mの内積を計算します. 結果はmと同じ型の行列です.
