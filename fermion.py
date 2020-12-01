@@ -52,7 +52,8 @@ def part(a, l1, l2):
         for k in range(len(l2)-1):
             L1 = np.insert(L1, 0, l1, axis=1)
         return a[L1, L2]
-class ops:
+
+""" class ops:
     
     def vm_dot(self, v, m):#m = [m0, m1, ... m_n-1], v = (v0, ... , vn-1)
         dim = len(m)
@@ -82,7 +83,7 @@ class ops:
             L1 = np.insert(L1, 0, l1, axis=1)
         return a[L1, L2]
 
-
+"""
 
 class fermion:
     def __init__(self, dim, spin=2):
